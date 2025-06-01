@@ -1,0 +1,3 @@
+-> go mod init <global_name>
+-> go build
+-> go run main.go
